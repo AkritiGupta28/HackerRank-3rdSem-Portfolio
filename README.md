@@ -1,7 +1,7 @@
 # HackerRank 3rd Sem Portfolio
 
 **Student Name:** Akriti Gupta  
-**Student ID:** [Her Student ID]  
+**Student ID:** R25EF020  
 **HackerRank Profile:** [Akriti Gupta on HackerRank](https://www.hackerrank.com/profile/h25020101180)  
 **Badge Earned:** Problem Solving Badge
 
