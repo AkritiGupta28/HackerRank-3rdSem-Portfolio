@@ -1,15 +1,9 @@
-\# HackerRank 3rd Sem Portfolio
+# HackerRank 3rd Sem Portfolio
 
-
-
-\*\*Student Name:\*\* Arghyapriya Sarkar  
-
-\*\*Student ID:\*\* 25020101180  
-
-\*\*HackerRank Profile:\*\* \[Arghyapriya Sarkar on HackerRank](https://www.hackerrank.com/profile/h25020101180)  
-
-\*\*Badge Earned:\*\* Problem Solving Badge  
-
+**Student Name:** Akriti Gupta  
+**Student ID:** [Her Student ID]  
+**HackerRank Profile:** [Akriti Gupta on HackerRank](https://www.hackerrank.com/profile/h25020101180)  
+**Badge Earned:** Problem Solving Badge
 
 
 \---
