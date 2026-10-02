@@ -2,7 +2,7 @@
 
 **Student Name:** Akriti Gupta  
 **Student ID:** R25EF020  
-**HackerRank Profile:** [Akriti Gupta on HackerRank]([https://www.hackerrank.com/profile/h25020101180](https://www.hackerrank.com/profile/h25020102959))  
+**HackerRank Profile:** [Akriti Gupta on HackerRank](https://www.hackerrank.com/profile/h25020102959))  
 **Badge Earned:** Problem Solving Badge
 
 
